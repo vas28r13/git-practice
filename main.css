@@ -23,7 +23,7 @@
 }
 
 .three {
-    background: yellow;
+    background: black;
 }
 
 @media (max-width: 400px) {
